@@ -1,7 +1,7 @@
 # Sobre mim
 
-- 👋 Olá meu nome é @FernandaMaria0
-- Meu email de contato é [email] maria.sanguini@escola.pr.gov.br
+- 👋 Olá meu nome é **@FernandaMaria0**
+- Meu email de contato é maria.sanguini@escola.pr.gov.br
 - Eu estou interessado em aprender e progamar novas linguagens
 - Estou aprendendo a progamar recentemente a linguagem de javaScript e Scratch
 
